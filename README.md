@@ -1,4 +1,6 @@
 # quiz_app
+Available at https://quiz-app-swart-pi-95.vercel.app/
+
 Quiz App created with nextjs. It's not using databases, the focus was on Quiz functionality and making it reusable.  
 Example how to create your own quiz is in /app/different_theme folder.  
 There be a Dockerfile used to create docker image and then deploy it to kubernetes.
@@ -17,3 +19,5 @@ enjoy at localhost:3000
 ### Enable randomizing the order of questions and answers
 In /components/Quiz.tsx ucomment lines 29 to 40.  
 In the same component change useState(false) to useState(true) in line 25.
+
+Do the opposite to disable randomizing
