@@ -14,6 +14,6 @@ intall dependencies with: npm install
 run with: npm run dev  
 enjoy at localhost:3000  
 
-### Enable randomizing question and answer order
+### Enable randomizing the order of questions and answers
 In /components/Quiz.tsx ucomment lines 29 to 40.  
 In the same component change const change useState(false) to useState(true) in line 25.
