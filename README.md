@@ -16,4 +16,4 @@ enjoy at localhost:3000
 
 ### Enable randomizing the order of questions and answers
 In /components/Quiz.tsx ucomment lines 29 to 40.  
-In the same component change const change useState(false) to useState(true) in line 25.
+In the same component change useState(false) to useState(true) in line 25.
