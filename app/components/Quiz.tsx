@@ -109,6 +109,7 @@ export default function Quiz({ questionsInput } : { questionsInput: Question[] }
                                 hover:scale-125 transition`,
                                 
                             )}
+                            disabled={!canComplete}
                         >
                             Complete
                         </button>
