@@ -85,7 +85,7 @@ const data = {
             "correctAnswer": "Happily Ever After Potion"
         },
         {
-            "question": "When Prince Charming reaches Princes Fiona's chambers, who does he find in her bed?",
+            "question": "When Prince Charming reaches Princess Fiona's chambers, who does he find in her bed?",
             "answers": [
                 "Pinocchio",
                 "Three Little Pigs",
