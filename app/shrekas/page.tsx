@@ -31,6 +31,16 @@ const data = {
             "correctAnswer": "Shrek 2"
         },
         {
+            "question": "What is the ending song in the first Shrek movie?",
+            "answers": [
+                "I'm a Believer",
+                "On the Road Again", 
+                "Livin’ La Vida Loca",
+                "All Star",
+            ],
+            "correctAnswer": "I'm a Believer"
+        },
+        {
             "question": "How many Puss in Boots movies are there?",
             "answers": [
                 "One (1 (I))",
@@ -39,6 +49,60 @@ const data = {
                 "Four (4 (IV))",
             ],
             "correctAnswer": "Three (3 (III))"
+        },
+        {
+            "question": "Who is the main villain in Shrek 3?",
+            "answers": [
+                "Fairy Godmother",
+                "Prince Charming", 
+                "Lord Farquaad",
+                "Rapunzel",
+            ],
+            "correctAnswer": "Prince Charming"
+        },        
+        {
+            "question": "What was the color of Pinochio's thong?",
+            "answers": [
+                "White",
+                "Light Blue",
+                "Red",
+                "Black",
+                "Yellow",
+                "Pink",
+                "Green",
+            ],
+            "correctAnswer": "Pink"
+        },
+        {
+            "question": "What is the name of the potion that causes people to fall in love in Shrek 2?",
+            "answers": [
+                "Love Potion No. 9",
+                "Love at First Sight Potion",
+                "Love Me Now Potion",
+                "Potion of Forever Love",
+                "Happily Ever After Potion",
+            ],
+            "correctAnswer": "Happily Ever After Potion"
+        },
+        {
+            "question": "When Prince Charming reaches Princes Fiona's chambers, who does he find in her bed?",
+            "answers": [
+                "Pinocchio",
+                "Three Little Pigs",
+                "The Big Bad Wolf",
+                "The Gingerbread Man",
+            ],
+            "correctAnswer": "The Big Bad Wolf"
+        },
+        {
+            "question": "What is the color of Puss in Boots' eyes?",
+            "answers": [
+                "Brown",
+                "Green", 
+                "Blue",
+                "Yellow",
+            ],
+            "correctAnswer": "Green"
         }
     ]
 }
